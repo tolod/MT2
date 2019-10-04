@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "24545155391",
+    "firebase_url": "https://directtalk9-4d360.firebaseio.com",
+    "project_id": "directtalk9-4d360",
+    "storage_bucket": "directtalk9-4d360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24545155391:android:594abdedf7cfaaac",
+        "android_client_info": {
+          "package_name": "yopy.modutalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24545155391-oq7vjnteceju121bi112blqmhp1v0ln2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvhCRIhqqOpud4gUoiYiM-yeUSLBR2tEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24545155391-oq7vjnteceju121bi112blqmhp1v0ln2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9778515385069911~5724000209"
+    }
+  ],
+  "configuration_version": "1"
+}

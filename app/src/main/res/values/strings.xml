@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">모두의 톡</string>
+    <string name="action_settings">설정</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <item name="photoView" type="id"/>
+    <string name="adID">"ca-app-pub-9778515385069911/6935700019"</string>
+</resources>
